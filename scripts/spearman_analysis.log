@@ -1,0 +1,10 @@
+date-timestamp & population-wgt    : False
+date-timestamp & education-num     : False
+date-timestamp & capital-gain      : False
+date-timestamp & capital-loss      : False
+population-wgt & education-num     : False
+population-wgt & capital-gain      : False
+population-wgt & capital-loss      : False
+education-num & capital-gain       : False
+education-num & capital-loss       : False
+capital-gain & capital-loss        : False
